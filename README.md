@@ -7,7 +7,7 @@
 1. [Perfect maze generator Algorithm](#perfect-maze-generator-algorithm)
 2. [Makefile](#makefile)
    - [How to use it](#how-to-use-it)
-1. [Make For This Project](#make-for-this-project)
+3. [Make For This Project](#make-for-this-project)
    - [1) make install](#1-make-install)
    - [2) make run](#2-make-run)
    - [3) make Debug](#3-make-debug)
@@ -18,7 +18,7 @@
 
 ---
 
-# Perfect maze generator Algorithm
+# <span class="color-purple">Perfect maze generator Algorithm</span>
 this takes the data from the parsed config files and use it to create the maze
 ==how the a_maze_ing.py will interact with the config file ? ==
 
